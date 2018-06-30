@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Encompass.", "AUS.", "Optimal Blue.", "Credit Plus.", "CBC Innovis.", "LockDesk Procedures.", "Con Log.", "Velocify - Coming Soon!"],
+      strings: ["Encompass.", "AUS.", "Optimal Blue.", "Credit Plus.", "CBC Innovis.", "Lock Desk Procedures.", "ValuTrust.", "Velocify - Coming Soon!"],
       typeSpeed: 125,
       loop: true,
     });
